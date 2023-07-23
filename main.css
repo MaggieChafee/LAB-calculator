@@ -1,0 +1,37 @@
+
+#calculator {
+  font-family: monospace;
+  font-size: 0px;
+  font-weight: bold;
+  width: 400px;
+}
+button {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: monospace;
+  width: 25%;
+  height: 75px;
+}
+.boxorange {
+  background-color:peru;
+  color: white;
+}
+.boxgrey {
+  background-color: lightgrey
+}
+.row1 {
+  display: flex;
+  background-color: black;
+  height: 100px;
+  color: white;
+  text-align: right;
+  font-size: 25px;
+  padding: 10px;
+}
+#C {
+  width: 50%; 
+}
+#zero {
+  width: 75%;
+}
